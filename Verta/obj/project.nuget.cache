@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "18FNF+cfH6rYLCWZLsliG7XUURdD467f91PSWYlgQDeY4KlfVckuCd+TCK/Z3POnRvlj+jDhcWMP5h5ENPPXbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\August\\Desktop\\Web\\.net\\Verta\\Verta\\Verta.csproj",
@@ -198,4 +199,11 @@
       ]
     }
   ]
+=======
+  "dgSpecHash": "Os+YU/thyo+NyoCO7cv80KMOTIGwREcmecTB2PNBf1GIEgSozyFiJf3uq5lEFSgsHlKXUB1oVpTk2XMAzVYJdA==",
+  "success": true,
+  "projectFilePath": "/home/rixz/projects/verta/Verta/Verta.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 09ce332c70b1ceed542f666e5e73ad294b88289c
 }
