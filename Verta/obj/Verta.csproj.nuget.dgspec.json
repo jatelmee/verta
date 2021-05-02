@@ -37,19 +37,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-<<<<<<< HEAD
-          "dependencies": {
-            "Microsoft.AspNet.Mvc": {
-              "target": "Package",
-              "version": "[3.0.50813.1, )"
-            },
-            "React.AspNet": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            }
-          },
-=======
->>>>>>> 09ce332c70b1ceed542f666e5e73ad294b88289c
           "imports": [
             "net461",
             "net462",
