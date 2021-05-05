@@ -27,6 +27,7 @@ namespace Verta
             }
 
             app.UseRouting();
+            app.UseStaticFiles();
 
             app.UseEndpoints(endpoints =>
             {
