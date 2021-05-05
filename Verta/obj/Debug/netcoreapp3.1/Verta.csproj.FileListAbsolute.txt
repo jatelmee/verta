@@ -38,3 +38,15 @@ C:/Users/August/Desktop/Web/.net/Verta/Verta/obj/Debug/netcoreapp3.1/Verta.genru
 /home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.dll
 /home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.pdb
 /home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.genruntimeconfig.cache
+/home/rixz/projects/verta/Verta/bin/Debug/netcoreapp3.1/package.json
+/home/rixz/projects/verta/Verta/bin/Debug/netcoreapp3.1/Verta.Views.dll
+/home/rixz/projects/verta/Verta/bin/Debug/netcoreapp3.1/Verta.Views.pdb
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.RazorAssemblyInfo.cache
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.RazorAssemblyInfo.cs
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.TagHelpers.input.cache
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.TagHelpers.output.cache
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.RazorCoreGenerate.cache
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.RazorTargetAssemblyInfo.cs
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.Views.pdb
+/home/rixz/projects/verta/Verta/obj/Debug/netcoreapp3.1/Verta.csproj.CopyComplete

@@ -13,7 +13,10 @@ namespace Verta
     public class Startup
     {
         public void ConfigureServices(IServiceCollection services)
+
         {
+            services.AddControllers();
+            services.AddMvc();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -27,7 +30,10 @@ namespace Verta
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
+
+                endpoints.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}");
+
+                endpoints.MapPost("/", async context =>
                 {
                     await context.Response.WriteAsync("Hello World!");
                 });
