@@ -7,6 +7,7 @@ module.exports = {
     port: 3000,
     overlay: true,
     hot: true,
+    open: true
   },
   output: {
     filename: "[name].js",
@@ -44,7 +45,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: "./src/views/index.html",
+      template: "./wwwroot/index.html",
       filename: "index.html",
     }),
   ]
