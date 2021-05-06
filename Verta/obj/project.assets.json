@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/home/rixz/.nuget/packages/": {}
+    "C:\\Users\\August\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rixz/projects/verta/Verta/Verta.csproj",
+      "projectUniqueName": "C:\\Users\\August\\Desktop\\Web\\.net-projects\\Verta\\verta\\Verta\\Verta.csproj",
       "projectName": "Verta",
-      "projectPath": "/home/rixz/projects/verta/Verta/Verta.csproj",
-      "packagesPath": "/home/rixz/.nuget/packages/",
-      "outputPath": "/home/rixz/projects/verta/Verta/obj/",
+      "projectPath": "C:\\Users\\August\\Desktop\\Web\\.net-projects\\Verta\\verta\\Verta\\Verta.csproj",
+      "packagesPath": "C:\\Users\\August\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\August\\Desktop\\Web\\.net-projects\\Verta\\verta\\Verta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rixz/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\August\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/rixz/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

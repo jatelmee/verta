@@ -1,7 +1,13 @@
 const path = require("path")
+const HtmlWebpackPlugin = require("html-webpack-plugin")
 
 module.exports = {
   entry: "./src/index.tsx",
+  devServer: {
+    port: 3000,
+    overlay: true,
+    hot: true,
+  },
   output: {
     filename: "[name].js",
     publicPath: "/",
@@ -36,4 +42,10 @@ module.exports = {
     modules: [path.resolve(__dirname, "src"), "node_modules"],
     extensions: [".tsx", ".ts", ".js"],
   },
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: "./src/views/index.html",
+      filename: "index.html",
+    }),
+  ]
 }
